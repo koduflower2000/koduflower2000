@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koduflower2000
-- 👀 I’m interested in operating systems, websites
+- 👀 I’m interested in operating systems, software, and websites
 - 🌱 I’m currently learning HTML and CSS, and also C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
