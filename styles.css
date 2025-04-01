@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #101010;
+    color: #e0e0e0;
+    display: flex;
+    flex-flow: column wrap;
+    gap: 10px;
+}
+
+h1 {
+    display: block;
+    padding: 10px auto;
+    text-align: center;
+    background-color: #000000;
+    color: #0080ff;
+}
+
+h1 span {
+    color: #ff0080;
+}
+
+@media (max-width: 499px) {
+    div,p {
+        display: block;
+        background-color: #000000;
+        border: 1px solid #404040;
+        margin: 0px;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 500px) {
+    div,p {
+        display: block;
+        background-color: #000000;
+        border: 1px solid #404040;
+        margin: 0px 20%;
+        padding: 10px;
+    }
+}
+
+.navbar {
+    display: flex;
+    flex-flow: row wrap;
+    list-style-type: none;
+    justify-content: center;
+    gap: 32px 10px;
+    padding: 10px;
+}
+
+.navbar a{
+    text-align: center;
+    background-color: #0080ff;
+    color: #ffffff;
+    border: 1px solid #0060c0;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.navbar a:hover{
+    color: #0080ff;
+    background-color: #ffffff;
+    border: 1px solid #c0c0c0;
+}
+
+.river-of-water{
+    display: block;
+    padding: 10px;
+    background-color: #004080;
+}
+
+div.floating{
+    display: block;
+    width: fit-content;
+    border: 5px solid #804000;
+    border-radius: 40px;
+    padding: 10px 20px;
+    margin: 0px 10px;
+    background-color: #603000;
+    color: #ffffff;
+}
+
+.images{
+    display: flex;
+    flex-flow: row wrap;
+    flex-shrink: 100px;
+    flex-grow: 300px;
+    justify-content: stretch;
+    gap: 10px;
+}
+
+img {
+    max-width: 300px;
+    max-height: 200px;
+    object-fit: cover;
+}
