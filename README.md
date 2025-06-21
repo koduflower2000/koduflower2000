@@ -5,7 +5,7 @@
 <!--- 📫 How to reach me: --->
 <!--- - kavinthirukt42@gmail.com (for business or professional purposes)--->
 - 😄 Pronouns: he/him/they/them
-- ⚡ Fun fact: I speak Russian.
+- ⚡ Fun fact: I speak Russian in a conversation level, and I speak a little bit of German, French, Polish, and Finnish
 - Website: https://koduflower2000.github.io/koduflower2000/
 
 <!---
